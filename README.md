@@ -4,7 +4,7 @@ Predicting vehicle prices based on structured data using machine learning models
 
 ---
 
-##Problem
+Problem
 
 Accurately estimating vehicle prices is a challenging task due to:
 - High variability in features (brand, model, year, engine, etc.)
@@ -15,25 +15,25 @@ This project aims to build a reliable ML-based system to predict vehicle prices.
 
 ---
 
-##Approach
+Approach
 
 The project follows a complete machine learning pipeline:
 
-###Data Processing
+Data Processing
 - Cleaning missing and inconsistent values
 - Feature selection and transformation
 - Handling categorical variables
 
-###Model Training
+Model Training
 - Implemented multiple ML models
 - Focused on performance and generalization
 
-###Algorithms Used
+Algorithms Used
 - LightGBM
   
 ---
 
-## 🛠 Tech Stack
+Tech Stack
 
 - Python
 - Pandas
